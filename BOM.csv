@@ -1,19 +1,19 @@
-Category,Component / Charge,Designator,Quantity,Total Price (USD),Link,Notes
-Component,100nF ceramic capacitor,"C1,C3,C4,C5,C6",25,0.1375,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,YAGEO CC0603KRX7R9BB104; JLCPCB C14663
-Component,10uF/16V aluminum electrolytic capacitor,C2,5,0.892,https://jlcpcb.com/partdetail/HonorElec-UD2E100M1010/C88697,Honor Elec UD2E100M1010; JLCPCB C88697
-Component,B5819W Schottky diode,D1,20,0.344,https://jlcpcb.com/partdetail/hongjiacheng-B5819W/C7420330,hongjiacheng B5819W; JLCPCB C7420330
-Component,Red 0603 LED,D2,20,0.074,https://jlcpcb.com/partdetail/XINGLIGHT-XL_1608SURC06/C965799,XINGLIGHT XL-1608SURC-06; JLCPCB C965799
-Component,Blue 0603 LED,D3,20,0.082,https://jlcpcb.com/partdetail/XINGLIGHT-XL_1608UBC04/C965807,XINGLIGHT XL-1608UBC-04; JLCPCB C965807
-Component,"USB-C receptacle, USB 2.0, 16-pin",J1,2,4.1262,https://jlcpcb.com/partdetail/XKBConnection-USB31_TYPE_CFSABC/C2880583,XKB Connection USB31-TYPE-C-FSABC; JLCPCB C2880583
-Component,SS8050 NPN transistor,"Q1,Q2",12,0.1392,https://jlcpcb.com/partdetail/hongjiacheng-SS8050/C7420370,hongjiacheng SS8050; JLCPCB C7420370
-Component,"5.1kΩ resistor, 0603","R1,R2",20,0.03,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,UNI-ROYAL 0603WAF5101T5E; JLCPCB C23186; match unconfirmed—comment mismatch warning
-Component,"1kΩ resistor, 0603",R3,20,0.032,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190,UNI-ROYAL 0603WAF1001T5E; JLCPCB C21190; match unconfirmed—comment mismatch warning
-Component,"10kΩ resistor, 0603","R4,R5,R6",20,0.034,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,UNI-ROYAL 0603WAF1002T5E; JLCPCB C25804; match unconfirmed—comment mismatch warning
-Component,"220Ω resistor, 0603",R7,20,0.034,https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962,UNI-ROYAL 0603WAF2200T5E; JLCPCB C22962; match unconfirmed—comment mismatch warning
-Component,Push-button switch,"SW1,SW2",4,2.0892,https://jlcpcb.com/partdetail/55982-DSIC01LHGET/C54957,DongGuan KINGTEK DSIC01LHGET; JLCPCB C54957
-Component,ESP32-WROOM-32 module,U1,2,8.892,https://jlcpcb.com/partdetail/EspressifSystems-ESP32_WROOM_32N4/C82899,Espressif ESP32-WROOM-32-N4; JLCPCB C82899; match warning: comment differs from matched part number
-Component,CH340C USB-to-serial converter,U2,2,1.1916,https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH340C/C7464026,WCH CH340C; JLCPCB C7464026
-Component,AMS1117-3.3 voltage regulator,U3,2,0.4016,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186,Advanced Monolithic Systems AMS1117-3.3; JLCPCB C6186
+Category,Component / Charge,Designator,Quantity,Total Price (USD),Link,
+Component,100nF ceramic capacitor,"C1,C3,C4,C5,C6",25,0.1375,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,YAGEO CC0603KRX7R9BB104 
+Component,10uF/16V aluminum electrolytic capacitor,C2,5,0.892,https://jlcpcb.com/partdetail/HonorElec-UD2E100M1010/C88697,Honor Elec UD2E100M1010
+Component,B5819W Schottky diode,D1,20,0.344,https://jlcpcb.com/partdetail/hongjiacheng-B5819W/C7420330,hongjiacheng B5819W
+Component,Red 0603 LED,D2,20,0.074,https://jlcpcb.com/partdetail/XINGLIGHT-XL_1608SURC06/C965799,XINGLIGHT XL-1608SURC-06
+Component,Blue 0603 LED,D3,20,0.082,https://jlcpcb.com/partdetail/XINGLIGHT-XL_1608UBC04/C965807,XINGLIGHT XL-1608UBC-04
+Component,"USB-C receptacle, USB 2.0, 16-pin",J1,2,4.1262,https://jlcpcb.com/partdetail/XKBConnection-USB31_TYPE_CFSABC/C2880583,XKB Connection USB31-TYPE-C-FSABC 
+Component,SS8050 NPN transistor,"Q1,Q2",12,0.1392,https://jlcpcb.com/partdetail/hongjiacheng-SS8050/C7420370,hongjiacheng SS8050
+Component,"5.1kΩ resistor, 0603","R1,R2",20,0.03,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,UNI-ROYAL 0603WAF5101T5E
+Component,"1kΩ resistor, 0603",R3,20,0.032,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190,UNI-ROYAL 0603WAF1001T5E
+Component,"10kΩ resistor, 0603","R4,R5,R6",20,0.034,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,UNI-ROYAL 0603WAF1002T5E
+Component,"220Ω resistor, 0603",R7,20,0.034,https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962,UNI-ROYAL 0603WAF2200T5E; 
+Component,Push-button switch,"SW1,SW2",4,2.0892,https://jlcpcb.com/partdetail/55982-DSIC01LHGET/C54957,DongGuan KINGTEK DSIC01LHGE
+Component,ESP32-WROOM-32 module,U1,2,8.892,https://jlcpcb.com/partdetail/EspressifSystems-ESP32_WROOM_32N4/C82899,Espressif ESP32-WROOM-32-N4
+Component,CH340C USB-to-serial converter,U2,2,1.1916,https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH340C/C7464026,WCH CH340C
+Component,AMS1117-3.3 voltage regulator,U3,2,0.4016,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186,Advanced Monolithic Systems AMS1117-3.3
 Order cost,PCB fabrication,,,4.0,,From supplied JLCPCB price screenshot
 Order cost,PCBA setup fee,,,25.75,,
 Order cost,Stencil,,,8.27,,
