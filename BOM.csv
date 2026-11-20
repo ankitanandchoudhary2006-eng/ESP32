@@ -1,4 +1,4 @@
-Category,Component / Charge,Designator,Quantity,Total Price (USD),Link,
+Category,Component / Charge,Designator,Quantity,Total Price (USD),Link,NOTE
 Component,100nF ceramic capacitor,"C1,C3,C4,C5,C6",25,0.1375,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,YAGEO CC0603KRX7R9BB104 
 Component,10uF/16V aluminum electrolytic capacitor,C2,5,0.892,https://jlcpcb.com/partdetail/HonorElec-UD2E100M1010/C88697,Honor Elec UD2E100M1010
 Component,B5819W Schottky diode,D1,20,0.344,https://jlcpcb.com/partdetail/hongjiacheng-B5819W/C7420330,hongjiacheng B5819W
