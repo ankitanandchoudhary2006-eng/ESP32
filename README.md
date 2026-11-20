@@ -1,5 +1,23 @@
 # ESP32
+<img width="597" height="631" alt="Screenshot 2026-11-20 163231" src="https://github.com/user-attachments/assets/1c702b9e-92be-46c2-9f35-3e53315bb078" />
 
+So I made a custom devboard based on ESp-Wroom-32 . It has a USB-C for power and signal and has interval voltage regulator to regulate the voltage down to 3.3V prior to that we have onboard LEDs and  USB to UART circuit and it has 2 sets of 15 connectors that connectes to power , gnd and multiple pins on the ESP32.
+
+## features 
+- Based onc interface
+-   ESP - WROOM -32
+- Has USB-C interface
+- Has 3.3V voltage regulator
+- Has USB to UART  circuit
+
+# Schamtics 
+<img width="978" height="630" alt="Screenshot 2026-11-20 165541" src="https://github.com/user-attachments/assets/817014d2-40aa-4129-aabc-ef02ad8545dd" />
+
+# PCB
+<img width="715" height="392" alt="Screenshot 2026-11-20 163212" src="https://github.com/user-attachments/assets/c52608bb-e7ea-4a55-a7da-ad4abc068376" />
+
+# CAD
+<img width="597" height="631" alt="Screenshot 2026-11-20 163231" src="https://github.com/user-attachments/assets/2362dc92-e137-4566-8a50-5e921c3b0a99" />
 
 
 
